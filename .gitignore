@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Session & credential data
+cookie.json
+constant.py
+
+# QQ Bot
+QQBOT/
+botpy-repo/
+
+# Logs
+botpy.log
+*.log
+
+# IDE / tool config
+.joycode/
+
+# OS / temp files
+System.IO.Stream+NullStream
+Thumbs.db
+.DS_Store
+.vscode
+
+# Lock files
+uv.lock
